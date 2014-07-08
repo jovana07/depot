@@ -4,6 +4,7 @@
 
 
 /* START_HIGHLIGHT */
+
 .store {
   h1 {
     margin: 0;
@@ -40,6 +41,11 @@
       margin-left: 100px;
       margin-top: 0.5em; 
       margin-bottom: 0.8em; 
+
+      form, div {
+
+        display: inline;
+      }
     }
 
     .price {
